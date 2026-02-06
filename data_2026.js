@@ -1,0 +1,18 @@
+window.YEAR_DATA_2026={
+  "pitch_data":[],
+  "total_data":[],
+  "pitchers":[],
+  "pitch_mix":{},
+  "scatter":{},
+  "heatmap":{},
+  "filter_options":{"teams":[],"pitch_types":[]},
+  "pitcher_team":{},
+  "dashboard":{},
+  "count_pitch":{},
+  "game_data":{},
+  "team_colors":{},
+  "league_team":{"league":{},"teams":{}},
+  "stadium_fb":{},
+  "fb_detail":{},
+  "trends":{}
+};
